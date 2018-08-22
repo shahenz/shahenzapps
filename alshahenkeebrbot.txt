@@ -1,1 +1,0 @@
-<br>` git clone https://github.com/alqaser/KEEPER.git && cd KEEPER && chmod +x keeper && ./keeper `<br>
